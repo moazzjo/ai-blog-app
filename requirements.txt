@@ -2,3 +2,9 @@ django
 dj-database-url
 psycopg2-binary
 python-dotenv
+dotenv
+pytube
+assemb
+assemblyai # if you facae a problem download it sepreatly
+google-genai
+markdown2
